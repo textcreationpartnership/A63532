@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true interest of the legal English Protestants, stated in a letter to a present member of the House of Commons concerning the test</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63532</idno>
+            <idno type="STC">Wing T2714A</idno>
+            <idno type="STC">ESTC R219806</idno>
+            <idno type="EEBO-CITATION">99831253</idno>
+            <idno type="PROQUEST">99831253</idno>
+            <idno type="VID">35716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2116:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true interest of the legal English Protestants, stated in a letter to a present member of the House of Commons concerning the test</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Worcester College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Early works to 1800.</term>
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35716:1" rendition="simple:additions"/>
+            <head>The True Intereſt of the Legal English PROTESTANTS, STATED IN A LETTER TO A Preſent Member of the <hi>Houſe of Commons</hi> Concerning the TEST.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF you look round about you; you will find the greateſt part of the Nation to have been your Bloody Devouring Enemies: The viſible Reaſons, have been the Actings of the Biſhops in <hi>Scotland,</hi> and the <hi>High Commiſsion-Court</hi> in <hi>England:</hi> But the chief Reaſon of taking this pretence, was the Avarice of your Enemies to Uſurp Church-Lands: Which Intereſt (as it hath ever continued their Conſpiracies ſince) muſt always make them remain your <hi>Solemnly Leagued,</hi> and unalterable Enemies; though per<g ref="char:EOLhyphen"/>haps your preſent Flatterers. And you have no Revertionary proſpect to comfort you; for the next Heir now living, is Invi<g ref="char:EOLhyphen"/>roned with <hi>Presbyterian Inſtructers.</hi>
+            </p>
+            <p>But the preſent King, (mindful of your paſt Loyalty,) hath Promis'd, and Perform'd the Protection of you, for two years to<g ref="char:EOLhyphen"/>gether, without withdrawing ſo much as His Family-Chappel at <hi>Whitehall</hi> from you: And His Clemency and Compaſſion no loſs perſeveres, in Protecting and Cheriſhing thoſe Contenders with Kings, the <hi>French Hugonots:</hi> So that His <hi>Proteſtant Friends</hi> can have no motive to doubt Him, whom they can only Truſt, if they Diſoblige him not.</p>
+            <p>But if the Coerſive Power muſt be continued over the <hi>Sectaries,</hi> though it begun all our Miſeries; and the <hi>Penal Laws,</hi> with the <hi>Teſts,</hi> muſt remain, to drive all ſorts of <hi>Non-conformiſts</hi> to <hi>Hypocriſy;</hi> you will find that thoſe whom you would ſtill be Threatning without Power, will take new meaſures to deſtroy your future Power. I ſay not this, that I would have all ſorts of <hi>Rebellious Sectaries</hi> have Liberty to meet in what Numbers and Places they pleaſe; but would have new Acts (if there be not enough) to give the Civil Magiſtrate a ſufficient preventing Power of ſuch Temptations to Rebellion. But I would have the <hi>Proteſtant Church</hi> freed from the blemiſh of being Tyrants over Mens Souls; their Churches, Revenues, and ſuch a Paſto<g ref="char:EOLhyphen"/>ral Power as Chriſt and his Apoſtles Exercis'd, being continued
+<pb n="2" facs="tcp:35716:2"/>upon them. I mean a Power to Preach, Teach, and Excommu<g ref="char:EOLhyphen"/>nicate all Church-Diſturbers.</p>
+            <p>And now ſince the <hi>Teſt</hi>-Acts have made a great noiſe in the World; I ſhall preſume to offer ſome Proofs out of an Allowed <hi>Proteſtant Bible</hi> of the Unlawfulneſs of them.</p>
+            <p>And to begin with the Act of the 25th. of King <hi>Charles</hi> the Second, the words of the Engagement are theſe.</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do declare, that I do Believe that there is not any Tranſubſtantiation in the Lords-Supper, or in the Elements of Bread and Wine, at, or after the Conſecration thereof, by any perſon whatſoever.</hi>
+            </p>
+            <p>And in the ſecond Act of the 30th. of King <hi>Charles</hi> the Second, there is added, <hi>The renouncing the Invocation of the Virgin</hi> Mary, <hi>or any of the Saints, as Idolatrous; as alſo the</hi> Maſs <hi>as it is now uſed by the Church of</hi> Rome, <hi>is declar'd Idolatrous.</hi>
+            </p>
+            <p>But the <hi>Proteſtant Bible</hi> is poſitive in theſe Words, St. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> Chap. 26. ver. 26.</p>
+            <p>
+               <hi>And as they were Eating, Jeſus took Bread, and Bleſſed it, and Brake it, and gave it to the Diſciples, and ſaid, Take, Eat, this is my Body.</hi>
+            </p>
+            <q>
+               <bibl>And in St. <hi>Mark</hi> Chap. 14. ver. 22.</bibl>
+               <p>And as they did Eat, Jeſus took Bread, and Bleſſed it, and Brake it, and gave it to them, and ſaid, Take, Eat, this is my Body.</p>
+            </q>
+            <q>
+               <bibl>And in St. <hi>Luke</hi> Chap. 22. ver. 19.</bibl>
+               <p>And he took Bread, and gave Thanks, and Brake it, and gave unto them, ſaying, This is my Body which is given for you, this do in Remembrance of me.</p>
+            </q>
+            <p>And in the Verſes immediately following theſe three Texts, Chriſt calls the Cup of Wine, <hi>His Blood, ſhed for his Followers:</hi> But I omitted them for Brevity ſake.</p>
+            <p>Now I would ask you, whether the plain Words in the <hi>Teſt</hi>-Acts, are not expreſly that I believe not one of theſe Texts of Chriſt?</p>
+            <p>And to give you yet a plainer Text out of St. <hi>John</hi> Chap. 6. ver. 51. You will find theſe words in your own <hi>Bible.</hi>
+            </p>
+            <p>
+               <hi>I am the Living Bread, which came down from Heaven, if any Man Eat this Bread he ſhall live for ever.</hi>
+            </p>
+            <p>
+               <hi>And the Bread that I will give is my Fleſh, which I will give for the Life of the World.</hi>
+            </p>
+            <p>Conſider now <hi>Sir,</hi> Whether the Ingagements in theſe <hi>Teſt</hi>-Acts, are not a Solemn League againſt the Word of God, ſo plain in four Texts; and a confounding Snare to thoſe that can<g ref="char:EOLhyphen"/>not Read and Underſtand, as well as to thoſe that can; for they engage to they know not what: Nor do I know one contrary Text.</p>
+            <p>As for the Miracle of <hi>Tranſubſtantiation,</hi> which the <hi>Teſt-takers</hi> think ſo hard, God hath Impower'd Man and Beaſt to demon<g ref="char:EOLhyphen"/>monſtrate it daily to them: For the chief ſorts of Beaſts do daily Tranſubſtantiate Graſs and Water into their own Fleſh and Blood: And Man does Tranſubſtantiate the very Elements of Bread and Wine into his own Fleſh and Blood: This undenyable
+<pb n="3" facs="tcp:35716:2"/>Truth then ſhould induce the <hi>Teſt-League</hi> to allow God a little more Power: And ſince he ſhews them the multiplication of all growing Bodies in their Seed, they cannot deny him a Fertile Power over his own Body: For ſince the Holy Ghoſt Breathed Chriſts Body into the Womb of a Virgin, Chriſt being God and Man, cannot be denyed the ſame Power to Breath the Breath of Life into Bread, by his own or his Delegates Words. And for Fleſh to lye hid under the outward Figure of Bread, is no more impoſſible, then for the hidden Fleſh of all Birds with their en<g ref="char:EOLhyphen"/>tire Forms, to be conceal'd under the Shape, Taſte and Com<g ref="char:EOLhyphen"/>plexion of Eggs. We muſt then believe God of ſuch Infinite Power, as to Create all things out of nothing by his Word; which is the greateſt and moſt viſible of all Miracles: For (be<g ref="char:EOLhyphen"/>ſides the proofs in <hi>Geneſis</hi>) we daily view the Univerſe, which could never make it ſelf in ſuch Beauty and Order, without an Infinitely Powerful Deſigner.</p>
+            <p>And that Chriſt did Delegate his Power in the Sacrament to his Diſciples, is plain in the Text above-mention'd of St. <hi>Luke</hi> Chap. 22. ver. 9. <hi>This do in remembrance of me.</hi>
+            </p>
+            <p>If then we have ſo many Texts for <hi>Tranſubſtantiation,</hi> and none againſt it: And the ſecond Councel of <hi>Nice</hi> with others, de<g ref="char:EOLhyphen"/>claring for it, and none againſt it: Theſe are not Authorities to be oppos'd by an Antient Father or too, as our Adverſaries ſay, or a little late grown Reformed Church or two.</p>
+            <p>For the oppoſers of Gods Word condemn their own Principle of Reformation; and Contradictors of General Councels, are underminers of all Chriſtian Authority or Unity; for they are the choſen Repreſentatives of the Generality of Chriſtians. Amongſt whom, Peaceably call'd by the chief Power for many hundreds of years, the Church of God muſt be: To which Chriſt Promis'd to continue with, St. <hi>Matthew</hi> Chap. 28. ver. 20. in theſe words, <hi>Loe I am with you always, even unto the end of the World.</hi> And if ſo, all Peaceable General Councels muſt be of like Authority: And they who will not hear them, muſt incur the Penalty denounced in St. <hi>Matthew</hi> Chap. 18. ver. 17, 18. <hi>And if he neglect to hear thee, tell it unto the Church; and if he neglect to hear the Church, let him be unto thee as an Heathen, man and a Publican.</hi>
+            </p>
+            <p>Verſe 18. <hi>Verily I ſay unto you, whatſoever ye ſhall bind on Earth ſhall be bound in Heaven. And whatſoever ye ſhall looſe on Earth, ſhall be looſed in Heaven.</hi>
+            </p>
+            <p>And the Church that we muſt hear, muſt be always Viſible (if Chriſt be always with them) or elſe it can neither command, nor we hear them to Obey.</p>
+            <p>And without an Umpire Church we can never agree about the Sacrament; nor any other of the many Controverted Texts, and <hi>Sects</hi> growing from them.</p>
+            <p>And now I believe this may be enough, though you ſtill doubt <hi>Tranſubſtantiation,</hi> to make you think it your Duty to en<g ref="char:EOLhyphen"/>deavour to Repeal theſe <hi>Teſt</hi>-Acts; to remove ſuch a Bait for Di<g ref="char:EOLhyphen"/>viſion between His Majeſty and People.</p>
+            <pb n="4" facs="tcp:35716:3"/>
+            <p>As for the <hi>Declaration</hi> in the ſecond <hi>Teſt</hi>-Act, <hi>Of Idolatry for Invoking the Virgin</hi> Mary <hi>or Saints, or Adoring Chriſt in the Elevated Bread of the</hi> Maſs, Where they ſuppoſe he is not: I ſhall, in brief, only ſay, That the ſeeking of Chriſt either by or without his mediating Favourites, though it ſhould be, where he is ſuppos'd not to be,) can be no <hi>Idolatry.</hi> Since Chriſt is every where, as he is God; and that no <hi>Pagan</hi> Gods are in the Hearts of any <hi>Chriſtians.</hi>
+            </p>
+            <p>And now having prov'd the unlawfulneſs, I ſhall proceed to the Inconveniencies of the <hi>Teſt</hi>-Acts.</p>
+            <p>And what can be more improper, then depriving the Govern<g ref="char:EOLhyphen"/>ment, not only of the uſe of the <hi>Roman Catholicks</hi> in all Charge<g ref="char:EOLhyphen"/>able, Troubleſom, or Dangerous Offices, either Civil or Military; but even of all other Subjects, who may avoid ſuch Imploy<g ref="char:EOLhyphen"/>ments, by ſaying, I cannot take the Ingagements in the <hi>Teſt</hi>-Acts, and therefore muſt not obey you.</p>
+            <p>How ridiculous were any Government, that ſhould not have a Power to ſuſpend ſuch Laws?</p>
+            <p>As for the <hi>Penal Laws</hi> againſt <hi>Non-conformiſts,</hi> they were made to wear out the Oppoſers of Queen <hi>Elizabeths</hi> Title to the Crown; But that Cauſe being remov'd long ſince, it is certain that they have been contrary to the Primitive Doctrine and Practice of <hi>Chriſtians,</hi> Oppreſſive of mens Conſciences and Fa<g ref="char:EOLhyphen"/>milies, the Cauſers of Conſpiracies and Rebellions, and drivers of men to <hi>Hypocriſy.</hi>
+            </p>
+            <p>If theſe then are their undenyable Attributes, your Compaſ<g ref="char:EOLhyphen"/>ſion, Juſtice and true <hi>Proteſtant</hi> Intereſt, will Ingage you to endeavour when you Sit again, to get the ſtart of all your Ene<g ref="char:EOLhyphen"/>mies, in obliging His moſt Illuſtrious Majeſty, by taking off al<g ref="char:EOLhyphen"/>together the worſt of Slaveries, at leaſt from the moſt Loyal of His Oppreſſed Subjects.</p>
+            <p>They are but a Contemptible Handful of People. And there<g ref="char:EOLhyphen"/>fore when God ſhall remove His glorious Majeſty; if you ſhall then find them worſe then other Subjects, you will be numerous enough to make what new Laws you pleaſe againſt them: For they are not the twentieth man, and have grown no faſter here in this ſhort time of Liberty, than a great Body of them hath done amongſt the Wiſe United <hi>Netherlanders</hi> with a hundred years Liberty; where they are in Peace, with a continued Fide<g ref="char:EOLhyphen"/>lity to their Government, when Invaded by the <hi>French</hi> of their own Religion.</p>
+            <p>But let what will happen, it is the True Intereſt of the <hi>Church of England</hi> to ſtand or fall with its Duty: Their King (if he were a <hi>Heathen</hi>) is the Lords Anointed; as <hi>Cyrus</hi> was call'd in <hi>Iſaia</hi> chap. 45. v. 1. and he is the Legal Head of the <hi>Engliſh Church,</hi> by which he can model them to their Duty without force.</p>
+            <p>And now I have ſaid enough, to one ſo Wiſe as to know, that God and the King muſt be Truſted with ſomething. For I ſhould Apologize for ſo tedious a Letter from</p>
+            <closer>
+               <signed>Your very Affectionate and moſt Humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
